@@ -1,2 +1,2 @@
-#!/bin/bash
-chown vincent:staff $file
+3!/bin/bash
+chown -R vincent:staff ./*e
